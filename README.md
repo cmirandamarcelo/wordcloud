@@ -1,4 +1,4 @@
-# Wordcloud with R
+# Wordcloud in R
 
 This projects analyzes the 50 songs of the Top Brazil's playlist on Spotify in 25th February 2018. All songs are located in /files directory.
 
