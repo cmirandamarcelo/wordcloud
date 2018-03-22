@@ -1,9 +1,6 @@
-# wordcloud
-Wordcloud with R
+# Wordcloud with R
 
-
-
-This projects analyse the 50 songs of the Top Brazil's playlist on Spotify in 25th February 2018.
+This projects analyzes the 50 songs of the Top Brazil's playlist on Spotify in 25th February 2018. All songs are located in /files directory.
 
 #### The songs are:
 
@@ -57,3 +54,7 @@ This projects analyse the 50 songs of the Top Brazil's playlist on Spotify in 25
 48.	A Mala é Falsa (part. Henrique & Juliano)	-	Felipe Araújo
 49.	Rockstar	-	Post Malone
 50.	Fazer Falta	-	Mc Livinho
+
+#### Wordcloud generated
+![Wordcloud](https://github.com/cmirandamarcelo/wordcloud/blob/master/wordcloud.png)
+
